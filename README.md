@@ -10,11 +10,7 @@
 - **Other:** Blockchain, Smart Contracts, Web Development
 
 ## 🚀 Favourite Projects
-- [OOPsieDaisiesCAB302](https://github.com/nick-montgomery/OOPsieDaisiesCAB302)
-- [IFB452Project](https://github.com/nick-montgomery/IFB452Project)
-- [ctrl-alt-elite](https://github.com/willnekker/ctrl-alt-elite)
-- [CAB230FrontEnd](https://github.com/nick-montgomery/CAB230FrontEnd)
-- [cab-230-back-end](https://github.com/nick-montgomery/cab-230-back-end)
+- _Coming Soon_
 
 ## 🏆 Interests
 - Gym & Fitness
