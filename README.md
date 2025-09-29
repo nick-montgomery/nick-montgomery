@@ -10,6 +10,7 @@ ai says i have these skills (will need refresh):
 
 stuff i've done that i actually like:
 - [projctl](https://github.com/nick-montgomery/projctl)
+- [kairos](https://github.com/BrendanGu/A-billion-dollars.git) (this was a hackathon it's not that great but was very fun to make)
 
 other stuff i've done (unless it's private then you can't see it sorry):
 - [repos](https://github.com/nick-montgomery)
