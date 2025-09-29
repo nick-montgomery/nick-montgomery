@@ -13,7 +13,7 @@ stuff i've done that i actually like:
 - [kairos](https://github.com/BrendanGu/A-billion-dollars.git) (this was a hackathon it's not that great but was very fun to make)
 
 other stuff i've done (unless it's private then you can't see it sorry):
-- [repos](https://github.com/nick-montgomery)
+- [repos](https://github.com/nick-montgomery?tab=repositories)
 
 i like making stuff to make things easier or if i think it would be cool.
 
