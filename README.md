@@ -18,8 +18,3 @@ other stuff i've done (unless it's private then you can't see it sorry):
 i like making stuff to make things easier or if i think it would be cool.
 
 have won some free mousepads through ARG puzzles (shoutout Wallhack)
-
-i use arch btw.
-
-checkout my linkedin if you want to hire me or are just extremely curious as to what i look like:
-[linkedin](https://www.linkedin.com/in/nicholas-m-56b5a31b9/)
